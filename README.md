@@ -19,7 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jo)
 
 <h2>Certifications</h2>
--Aws solution architect
+-Aws solution architect,
 -Cybersecurity
 
 <h2>Youtube</h2>
