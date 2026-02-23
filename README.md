@@ -1,8 +1,8 @@
-<h1>Hi, I'm Osiemo! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/christopherosiemo/">Programmer</a>, <a href="https://www.youtube.com/c/chrisosiemo">YouTuber</a></h1>
+<h1>Hi, I'm Osiemo! <br/><a href="https://github.com/chrisosiemo">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/christopher-osiemo-254brc137/">Programmer</a>, <a href="https://www.youtube.com/@chrisosiemo1939">YouTuber</a></h1>
 
 <h2>👨‍💻MultiCloud, Software Development & cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
+- <b>Data science and Data analytics Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Full Stack Web App (Python, NodeJS, Sql, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
@@ -20,7 +20,7 @@
 
 <h2>Certifications</h2>
 -Aws solution architect,
--Cybersecurity
+- alx Cybersecurity,
 
 <h2>Youtube</h2>
 - [How to get into Cybersecurity Starting From Zero]()
@@ -36,10 +36,10 @@
 [<img align="left" alt="christopherosiemo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="chrisosiemo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/chrisosiemo
+[twitter]: https://x.com/osiemoc137
+[youtube]: https://https://www.youtube.com/@chrisosiemo1939
 [instagram]: https://www.instagram.com/chrisosiemo/
-[linkedin]: https://linkedin.com/in/christopherosiemo/
+[linkedin]: https://www.linkedin.com/in/christopher-osiemo-254brc137
 
 <!--
 **
