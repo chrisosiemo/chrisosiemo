@@ -20,7 +20,7 @@
 
 <h2>Certifications</h2>
 -Aws solution architect,
-- alx Cybersecurity,
+-alx Cybersecurity,
 
 <h2>Youtube</h2>
 - [How to get into Cybersecurity Starting From Zero]()
