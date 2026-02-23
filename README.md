@@ -37,7 +37,7 @@
 [<img align="left" alt="chrisosiemo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/osiemoc137
-[youtube]: https://https://www.youtube.com/@chrisosiemo1939
+[youtube]: https://www.youtube.com/@chrisosiemo1939
 [instagram]: https://www.instagram.com/chrisosiemo/
 [linkedin]: https://www.linkedin.com/in/christopher-osiemo-254brc137
 
