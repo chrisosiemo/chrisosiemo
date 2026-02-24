@@ -2,8 +2,8 @@
 
 <h2>👨‍💻MultiCloud, Software Development & cybersecurity Projects:</h2>
 
-- <b>Data science and Data analytics Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>Data science and Data analytics Projects </b>
+  - [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
 - <b>Full Stack Web App (Python, NodeJS, Sql, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
