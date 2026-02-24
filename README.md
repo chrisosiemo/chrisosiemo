@@ -1,10 +1,33 @@
 <h1>Hi, I'm Osiemo! <br/><a href="https://github.com/chrisosiemo">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/christopher-osiemo-254brc137/">Programmer</a>, <a href="https://www.youtube.com/@chrisosiemo1939">YouTuber</a></h1>
+ <a href="https://linkedin.com/christopher-osiemo-254brc137/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻MultiCloud, Software Development & cybersecurity Projects:</h2>
+
+<h2>👨‍💻Cybersecurity,Data Science & MultiCloud.</h2>
+## Objective
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+
+
+
+## Projects
 
 - <b>Cybersecurity Projects </b>
   - [Hacking lab](https://github.co)
-
+  - Detection Lab
+  - SOC Automation Project
 - <b>Data science and Data analytics Projects </b>
   - [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
 - <b>Full Stack Web App (Python, NodeJS, Sql, and Machine Learning Components)</b>
