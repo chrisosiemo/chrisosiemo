@@ -4,12 +4,19 @@
 
 <h2>👨‍💻Cybersecurity,Data Science & MultiCloud.</h2>
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity,data science and cloud computing. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project         |                                                    
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -23,15 +30,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-
-- <b>Cybersecurity Projects </b>
-  - [Hacking lab](https://github.co)
+- <h2>Cybersecurity projects</h2>
+   - [Hacking lab](https://github.co)
   - Detection Lab
   - SOC Automation Project
-- <b>Data science and Data analytics Projects </b>
+- <h2>Data science and Data analytics Projects </h2>
   - [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
-- <b>Full Stack Web App (Python, NodeJS, Sql, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
+- <h2>programming projects</h2>
+  
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
   - [JWipe (Disk Wiping Utility)](https://github.)
@@ -43,7 +50,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Keylogger with Email Capability](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jo)
-
+  - 
+- <b>Cloud projects</b>
+  -
+- <b>Networking projects</b>
+  -
+ 
 <h2>Certifications</h2>
 -Aws solution architect,
 -alx Cybersecurity,
