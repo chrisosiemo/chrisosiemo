@@ -35,7 +35,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - Detection Lab
   - SOC Automation Project
 - <h2>Data science and Data analytics Projects </h2>
-  - [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
+- [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
+- [Machine learning]
 - <h2>programming projects</h2>
   
   
