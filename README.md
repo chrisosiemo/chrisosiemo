@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - Detection Lab
   - SOC Automation Project
 - <h2>Data science and Data analytics Projects </h2>
-- [Datascience  ](https://https://github.com/chrisosiemo/machine-learning
+- [Datascience  ](https://github.com/chrisosiemo/machine-learning)
 - Machine learning
 - [Data analytics]
 - <h2>programming projects</h2>
