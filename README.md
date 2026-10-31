@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osiemo! <br/><a href="https://github.com/chrisosiemo">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/christopher-osiemo-254brc137/">Programmer</a>, <a href="https://www.youtube.com/@chrisosiemo1939">YouTuber</a></h1>
+<h1>Hi, I'm Osiemo! <br/><a href="https://github.com/chrisosiemo">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/christopher-osiemo-254brc137/">Data scientist</a>, <a href="https://www.youtube.com/@chrisosiemo1939">YouTuber</a></h1>
  <a href="https://linkedin.com/in/christopher-osiemo-254brc137/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -36,7 +36,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - SOC Automation Project
 - <h2>Data science and Data analytics Projects </h2>
 - [Data analytics](https://github.com/chrisosiemo/sql-injuypter-notebook)
-- [Machine learning]
+- [Data science]
+- Machine learning
 - <h2>programming projects</h2>
   
   
