@@ -51,7 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
   - [Keylogger with Email Capability](https://github.com/)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/jo)
+  - [Django  web agrisystem app (python and database Demo)](https://github.com/chrisosiemo/mama-mboga)
   - 
 - <b>Cloud projects</b>
   -
